@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aditya Goyal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning new languages
+- 🌱 I’m currently exploring new projects
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me adityagoyal1505@gmail.com
+- 📫 How to reach me btech25153.23@bitmesra.ac.in
 - 😄 Pronouns: Adi
 - ⚡ Fun fact: Have different moods
 
