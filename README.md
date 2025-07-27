@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **with any one**
+- 👯 I’m looking to collaborate on **with any one interested**
 
 - 👨‍💻 All of my projects are available at [https://adityagoyal1505.github.io/Portfolio/](https://adityagoyal1505.github.io/Portfolio/)
 
@@ -23,11 +23,11 @@
 <p align="left">
 <a href="https://dev.to/aditya_goyal_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aditya_goyal_15" height="30" width="40" /></a>
 <a href="https://twitter.com/adityagoya1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityagoya1505" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://.linkedin.com/in/aditya-goyal-5a7546289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://.linkedin.com/in/aditya-goyal-5a7546289/" height="30" width="40" /></a>
+<a href="https://.linkedin.com/in/aditya-goyal-5a7546289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://.linkedin.com/in/aditya-goyal-5a7546289/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/31154842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31154842" height="30" width="40" /></a>
 <a href="https://kaggle.com/aditya goyal1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya goyal1505" height="30" width="40" /></a>
 <a href="https://instagram.com/adityagoyal579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityagoyal579" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aditya-goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aditya-goyal/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aditya-goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aditya-goyal/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
