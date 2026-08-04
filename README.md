@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagoyal1505&label=Profile%20views&color=0e75b6&style=flat" alt="adityagoyal1505" /> </p>
 
-- 🔭 I’m currently working on **Event Management System**
+- 🔭 I’m currently **Open to work**
 
 - 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React.js, Java Spring Boot, Full Stack**
 
-- 📫 How to reach me **btech25153.23@bitmesra.ac.in**
+- 📫 How to reach me **aditya1505goyal@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iHzJ23cpyzeZhNda-XODsqwWYRufKjnw/view?usp=sharing](https://drive.google.com/file/d/1iHzJ23cpyzeZhNda-XODsqwWYRufKjnw/view?usp=sharing)
 
