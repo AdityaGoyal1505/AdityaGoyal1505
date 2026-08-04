@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **with any one interested**
 
-- 👨‍💻 All of my projects are available at [https://adityagoyal1505.github.io/Portfolio/](https://adityagoyal1505.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://adityagoyal1505.github.io/Portfolio/](https://adityagoyalportfolio.vercel.app/)
 
 - 💬 Ask me about **React.js, Java Spring Boot, Full Stack**
 
