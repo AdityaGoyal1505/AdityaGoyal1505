@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aditya1505goyal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qa27lONEF3HfUdMi1ZArhcORob7BzPJM/view?usp=sharing](https://drive.google.com/file/d/1Qa27lONEF3HfUdMi1ZArhcORob7BzPJM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Qa27lONEF3HfUdMi1ZArhcORob7BzPJM/view?usp=sharing](https://drive.google.com/file/d/1-Rol02R_LA3vRYiQ8E87p6XQTfQnL3iq/view?usp=drive_link)
 
 - ⚡ Fun fact **Have different moods but looking for work**
 
